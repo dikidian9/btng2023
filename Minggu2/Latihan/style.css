@@ -1,0 +1,54 @@
+/*h1 {
+  color: blue;
+}*/
+
+/* h1 {
+  font-weight: 700;
+  color: greenyellow;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 15px;
+  background-color: beige;
+}
+
+span {
+  color: blue;
+}
+
+.container {
+  box-shadow: 10px 13px 0 -1px rgba(0, 0, 0, 0.67);
+}
+
+#content1 {
+  font-weight: 800;
+  color: red;
+  text-decoration: underline;
+}
+
+#content2 {
+  font-weight: 800;
+  color: violet;
+  text-decoration: underline;
+}
+.content {
+  background-color: beige;
+}
+
+.content,
+.content1,
+.content2 {
+  color: blue !important;
+} */
+
+.box a {
+  background-color: red;
+  color: black;
+  width: 100px;
+  height: 100px;
+}
+
+.box:hover {
+  background-color: green;
+}
